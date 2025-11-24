@@ -1,0 +1,8 @@
+{
+  "client_id": "YourClientId",
+  "client_secret": "YourClientSecret",
+  "redirect_uri": "http://127.0.0.1:8080/",
+  "daily_steps": 10000,
+  "start_time": "09:00",
+  "scope": "activity"
+}
