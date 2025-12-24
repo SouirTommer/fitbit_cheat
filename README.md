@@ -83,4 +83,4 @@ Common issues & troubleshooting
   - If refresh_token is revoked or expired, re-run `fitbit_login.py` locally to obtain a new `fitbit_tokens.json`.
 
 License
-- Add a license file to your repo (MIT recommended) if you want others to reuse the code.
+- MIT
